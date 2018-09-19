@@ -1,0 +1,5 @@
+# ignore the obj folder
+obj
+
+# ignore the pdb files
+*.pdb
